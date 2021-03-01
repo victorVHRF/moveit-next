@@ -15,9 +15,9 @@ Bootcamp performed by rocketseat to take the next level in React development
 
 The main idea of ​​this application is that you stay immersed in the code for 25 minutes and after that time, a kind of exercise will be released. These exercises are stretches and eye exercises.
 
-### 🛠 Tecnologias
+### 🛠 Technology
 
-As seguintes ferramentas foram usadas na construção do projeto:
+The following tools were used in the construction of the project:
 
 - [React](https://pt-br.reactjs.org/)
 - [NextJs](https://nextjs.org)
