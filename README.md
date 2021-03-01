@@ -2,9 +2,25 @@
     <img alt="Semana Omnistack" src="public/rocketseat.svg" width="400px" />
 </h1>
 
+For a demonstration visit: https://victor-moveit-next.vercel.app
+
+<p align="center">
+    <img alt="App.gif" src="/public/icons/app.gif" width="100px" height="100px" />
+</p>
+
+
 # Next Level Week
 
 Bootcamp performed by rocketseat to take the next level in React development
+
+The main idea of ​​this application is that you stay immersed in the code for 25 minutes and after that time, a kind of exercise will be released. These exercises are stretches and eye exercises.
+
+### 🛠 Tecnologias
+
+As seguintes ferramentas foram usadas na construção do projeto:
+
+- [React](https://pt-br.reactjs.org/)
+- [NextJs](https://nextjs.org)
 
 some React commands:
 
