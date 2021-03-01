@@ -5,7 +5,7 @@
 For a demonstration visit: https://victor-moveit-next.vercel.app
 
 <p align="center">
-    <img alt="App.gif" src="/public/icons/app.gif" width="100px" height="100px" />
+    <img alt="App.gif" src="/public/icons/app.gif" width="400px" height="300px" />
 </p>
 
 
